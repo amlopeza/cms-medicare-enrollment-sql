@@ -1,0 +1,18 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datos (archivos grandes, no van a git)
+data/
+*.csv
+*.db
+*.sqlite
+
+# Sistema
+.DS_Store
+._*
