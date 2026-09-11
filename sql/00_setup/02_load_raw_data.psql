@@ -1,0 +1,2 @@
+-- Load the original CMS CSV into the source-preserving raw table.
+\copy raw.medicare_monthly_enrollment FROM 'data/Medicare_Monthly_Enrollment_May_2026.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8')
