@@ -1,4 +1,4 @@
-# Entorno virtual
+# Virtual environment
 .venv/
 venv/
 
@@ -7,12 +7,12 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 
-# Datos (archivos grandes, no van a git)
+# Data files (large source files are not committed)
 data/
 *.csv
 *.db
 *.sqlite
 
-# Sistema
+# System files
 .DS_Store
 ._*
