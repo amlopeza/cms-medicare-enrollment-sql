@@ -16,3 +16,4 @@ data/
 # System files
 .DS_Store
 ._*
+scratch/
